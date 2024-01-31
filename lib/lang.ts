@@ -295,6 +295,7 @@ Wu - wuu
 `.trim().split("\n").map(line => line.split(" - "));
 
 const commonLangZh = `
+越南语
 中文
 英语
 西班牙语
